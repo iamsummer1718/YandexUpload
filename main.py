@@ -48,4 +48,5 @@ if __name__ == '__main__':
     access_token = 'y0_AgAAAABjwBvtAADLWwAAAADcQTVQXtW170XrTnmM1DrlJlWJmY_A0dM'
     uploader = YaUploader(access_token)
     result = uploader.upload(file_path)
+    print('All working')
 
