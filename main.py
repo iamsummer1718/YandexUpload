@@ -2,7 +2,6 @@ import requests
 from pprint import pprint
 
 
-# curl -X GET --header 'Accept: application/json' --header 'Authorization: OAuth y0_AgAAAABjwBvtAADLWwAAAADcQTVQXtW170XrTnmM1DrlJlWJmY_A0dM' 'https://cloud-api.yandex.net/v1/disk'
 
 
 class YaUploader:
